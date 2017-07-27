@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sub_text">16sp</dimen>
+    <dimen name="top_sub_text">2dp</dimen>
+    <dimen name="left_sub_text">8dp</dimen>
+    <dimen name="editor_left_margin">8dp</dimen>
+    <dimen name="text_top_margin">8dp</dimen>
+    <dimen name="editor_top_margin">2dp</dimen>
+</resources>
